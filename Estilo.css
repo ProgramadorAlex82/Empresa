@@ -1,0 +1,12 @@
+.cosa1 {
+    width: 200px;
+    height: 200px;
+    transform-origin: center center 0px;
+    box-shadow: 5px 5px 40px 0 rgba(0,0,0,1);
+    position: relative;
+    top: 10px;
+    left: 1px;
+    margin-top: 0;
+    margin-bottom: 0;
+    transform: rotate(359.73deg);
+  }
